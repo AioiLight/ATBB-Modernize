@@ -1,0 +1,66 @@
+{
+    "desc": {
+        "description": "Extension's description",
+        "message": "Modernize ATBB (at home Bussiness Base)"
+    },
+    "options_title": {
+        "description": "Title",
+        "message": "ATBB Modernize's Options"
+    },
+    "options_desc_enter_search": {
+        "description": "desc_enter_search",
+        "message": "Search when pressed enter key"
+    },
+    "options_desc_sticky_stats": {
+        "description": "desc_sticky_stats",
+        "message": "Sticky ATBB 利用状況 with scrolling"
+    },
+    "options_desc_sticky_checking": {
+        "description": "desc_sticky_checking",
+        "message": "Sticky batch processing (Hover to open)"
+    },
+    "options_desc_smooth": {
+        "description": "desc_smooth",
+        "message": "Enable smooth scroll in all pages"
+    },
+    "options_desc_sans_serif": {
+        "description": "desc_sans_serif",
+        "message": "Force browser default font"
+    },
+    "options_desc_search": {
+        "description": "desc_search",
+        "message": "Default focus when searching"
+    },
+    "options_desc_search_direct": {
+        "description": "desc_search_direct",
+        "message": "Direct search"
+    },
+    "options_desc_search_number": {
+        "description": "desc_search_number",
+        "message": "Bukken No. or Manage No."
+    },
+    "options_desc_search_none": {
+        "description": "desc_search_none",
+        "message": "No focus"
+    },
+    "options_desc_remove_editheader": {
+        "description": "desc_remove_editheader",
+        "message": "Remove header item of Bukken editor"
+    },
+    "options_text_submit": {
+        "description": "text_submit",
+        "message": "Save options"
+    },
+    "options_text_reset": {
+        "description": "text_reset",
+        "message": "Reset options"
+    },
+    "options_text_saved": {
+        "description": "text_saved",
+        "message": "Saved options."
+    },
+    "options_text_resetted": {
+        "description": "text_resetted",
+        "message": "Reset options."
+    }
+}

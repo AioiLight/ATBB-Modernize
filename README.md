@@ -1,2 +1,2 @@
 # ATBB-Modernize
-A Chrome extension that do modernize ATBB.
+ATBB (at home Business Base) を使いやすくする Chrome 拡張機能です。

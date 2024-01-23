@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+input {
+    vertical-align: sub;
+}
+
+.main {
+    margin-inline: auto;
+    padding-inline: 20px;
+    max-inline-size: 600px;
+    inline-size: 100%;
+}
+
+.vspacer {
+    display: grid;
+    gap: 16px;
+    justify-items: start;
+}
+
+.hspacer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 16px;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="../js/options.js"></script>
+        <link rel="stylesheet" href="../css/options.css">
+    </head>
+    <body>
+        <main class="main">
+            <h1 class="title"></h1>
+            <div class="vspacer">
+                <label for="enter_search" class="desc_enter_search"><input type="checkbox" id="enter_search" disabled checked></label>
+                <label for="sticky_stats" class="desc_sticky_stats"><input type="checkbox" id="sticky_stats" disabled checked></label>
+                <label for="sticky_checking" class="desc_sticky_checking"><input type="checkbox" id="sticky_checking" disabled checked></label>
+                <label for="smooth" class="desc_smooth"><input type="checkbox" id="smooth"></label>
+                <label for="sans_serif" class="desc_sans_serif"><input type="checkbox" id="sans_serif"></label>
+                <fieldset>
+                    <legend class="desc_search"></legend>
+                    <div class="hspacer">
+                        <label for="search_direct" class="desc_search_direct"><input type="radio" id="search_direct" name="search" value="direct"></label>
+                        <label for="search_number" class="desc_search_number"><input type="radio" id="search_number" name="search" value="number"></label>
+                        <label for="search_none" class="desc_search_none"><input type="radio" id="search_none" name="search" value="none"></label>
+                    </div>
+                </fieldset>
+                <label for="remove_editheader" class="desc_remove_editheader"><input type="checkbox" id="remove_editheader"></label>
+                <div class="hspacer">
+                    <input type="submit" value="" class="text_submit">
+                    <input type="button" value="" class="text_reset">
+                </div>
+                <p class="options-status"></p>
+            </div>
+        </main>
+    </body>
+</html>

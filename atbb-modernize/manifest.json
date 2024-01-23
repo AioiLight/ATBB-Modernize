@@ -1,0 +1,29 @@
+{
+    "content_scripts": [
+        {
+            "matches": [ "*://atbb.athome.co.jp/*" ],
+            "js": [ "js/atbb-modernize.js" ],
+            "css": [ "css/atbb-modernize.css" ],
+            "run_at": "document_start"
+        }
+    ],
+    "default_locale": "en",
+    "description": "__MSG_desc__",
+    "icons": {
+       "128": "icons/icon_128.png",
+       "16": "icons/icon_16.png",
+       "32": "icons/icon_32.png",
+       "48": "icons/icon_48.png"
+    },
+    "manifest_version": 3,
+    "name": "ATBB Modernize",
+    "version": "0.1.0",
+    "permissions": [
+        "storage"
+    ],
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+    }
+ }
+ 

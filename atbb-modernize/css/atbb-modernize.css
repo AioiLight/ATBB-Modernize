@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#leftpane {
+    position: sticky;
+    inset-block-start: 8px;
+}
+
+td.contents > form > div[align=center] {
+    position: sticky;
+    inset-block-end: -180px;
+    transition: all 0.5s;
+}
+
+td.contents > form > div[align=center]:hover {
+    inset-block-end: 0px;
+}

@@ -1,0 +1,66 @@
+{
+    "desc": {
+        "description": "拡張機能の説明文",
+        "message": "ATBB (at home Bussiness Base) を近代化"
+    },
+    "options_title": {
+        "description": "タイトル",
+        "message": "ATBB Modernize の設定"
+    },
+    "options_desc_enter_search": {
+        "description": "desc_enter_search",
+        "message": "Enter キーを押して検索"
+    },
+    "options_desc_sticky_stats": {
+        "description": "desc_sticky_stats",
+        "message": "ATBB 利用状況 をスクロールに追従する"
+    },
+    "options_desc_sticky_checking": {
+        "description": "desc_sticky_checking",
+        "message": "一括操作をスクロールに追従する (ホバーして展開)"
+    },
+    "options_desc_smooth": {
+        "description": "desc_smooth",
+        "message": "全ページでスムーススクロールをオンにする"
+    },
+    "options_desc_sans_serif": {
+        "description": "desc_sans_serif",
+        "message": "ブラウザデフォルトフォントに強制する"
+    },
+    "options_desc_search": {
+        "description": "desc_search",
+        "message": "検索時のデフォルトフォーカス"
+    },
+    "options_desc_search_direct": {
+        "description": "desc_search_direct",
+        "message": "ダイレクト検索"
+    },
+    "options_desc_search_number": {
+        "description": "desc_search_number",
+        "message": "物件番号と管理番号"
+    },
+    "options_desc_search_none": {
+        "description": "desc_search_none",
+        "message": "どちらにもフォーカスしない"
+    },
+    "options_desc_remove_editheader": {
+        "description": "desc_remove_editheader",
+        "message": "物件編集画面のヘッダーの一部を削除する"
+    },
+    "options_text_submit": {
+        "description": "text_submit",
+        "message": "設定を保存"
+    },
+    "options_text_reset": {
+        "description": "text_reset",
+        "message": "設定をリセット"
+    },
+    "options_text_saved": {
+        "description": "text_saved",
+        "message": "設定を保存しました。"
+    },
+    "options_text_resetted": {
+        "description": "text_resetted",
+        "message": "設定をリセットしました。"
+    }
+}
